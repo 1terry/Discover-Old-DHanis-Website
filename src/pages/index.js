@@ -18,7 +18,7 @@ export default function Home() {
           {/* Use Next.js Image component for background image */}
           <Image 
             className={styles.backgroundImg}
-            src='/assets/background_pic.jpg'
+            src='https://media.githubusercontent.com/media/1terry/Discover-Old-DHanis-Website/refs/heads/main/public/assets/background_pic.jpg'
             alt='Background'
             layout='fill' // This ensures the background image takes up the entire space
             objectFit='cover' // This ensures the image scales properly
